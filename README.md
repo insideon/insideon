@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**insideon/insideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=BANBAN&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<tr>
+<td align="center" width="50%" style="border:none;">
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=insideon&theme=tokyonight" width="100%" /></a>
+</td>
+<td align="center" width="50%" style="border:none;">
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=insideon&theme=tokyonight" width="100%" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="border:none;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=insideon&hide_border=true&background=1A1B27&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555&stroke=30363D" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="border:none;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=insideon&hide_border=true&bg_color=1A1B27&color=A78BFA&line=7C3AED&point=06B6D4&area=true&area_color=4F46E5" width="100%" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/insideon/insideon/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=80&section=footer" width="100%" />
